@@ -2,6 +2,9 @@
 
 /* link the web font used for the level 1 heading here */
 
+  
+
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,3 +21,58 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  color: rgb(152,173,166);
+  padding-bottom: 0%;
+  margin: 0 0 5px;
+  font-weight: normal;
+  font-size: 5em;
+  font-family: 'Libre Baskerville', serif;
+  border-bottom: 1px solid #ccc;
+
+}
+
+.necklace { 
+  border: 5px solid rgb(152,173,166);
+}
+
+h2 {
+  color: rgb(111,127,122);
+  padding-bottom: 0;
+  font-size: 2em;
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-family: 'Libre Baskerville', serif;
+
+}
+
+h3 {
+  color: rgb(111,127,122);
+  padding-bottom: 0;
+  font-size: 2em;
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-family: 'Libre Baskerville', serif;
+  
+}
+
+.p {
+  text-align: left;
+  position: fixed;
+  color: black;
+
+  
+}
+
+.ads {
+  display: inline-block;
+  border: 5px solid rgb(152,173,166);
+ 
+}
+
+.rights { 
+  font-size: 10px;
+  float: right;
+}
+
